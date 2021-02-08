@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game and OOP/Game and OOP.iml" filepath="$PROJECT_DIR$/Game and OOP/Game and OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ projects.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remote Drive test/Remote Drive test.iml" filepath="$PROJECT_DIR$/Remote Drive test/Remote Drive test.iml" />
+    </modules>
+  </component>
+</project>
