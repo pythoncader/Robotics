@@ -20,8 +20,7 @@ public class Main {
 	    System.out.println("I have a "+mydog.gettype()+" whose name is "+mydog.getname()+" and weighs "+mydog.getweight()+" pounds!");
 	    mydog.print();
 
-		int yourbest = Guessing.playgame();
-	    System.out.println("Your best score: "+yourbest);
+	    System.out.println("Your best score: "+Guessing.playgame());
     }
 
 }

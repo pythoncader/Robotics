@@ -1,0 +1,2 @@
+https://medium.com/@aadimator/how-to-set-up-opencv-in-intellij-idea-6eb103c1d45c#:~:text=Click%20the%20%2B%20icon%20on%20the,the%20Add%20Jar%2FDirectory%20option.&text=Then%20browse%20to%20the%20path,jar%20and%20click%20OK.
+If you get an error - try checking the file paths of images: https://github.com/ageitgey/face_recognition/issues/933

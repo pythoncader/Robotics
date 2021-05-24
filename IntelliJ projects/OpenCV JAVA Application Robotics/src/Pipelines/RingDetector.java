@@ -19,7 +19,7 @@ public class RingDetector {
 
             //Loading the OpenCV core library
             System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
-            String filepath = "C:/users/mike/desktop/Creative Cloud Files/coding/java/Robotics/OpenCV JAVA application Robotics/src/" + i;
+            String filepath = "C:/users/mike/desktop/Creative Cloud Files/coding/programming/Robotics/IntelliJ Projects/OpenCV JAVA application Robotics/src/" + i;
             Mat mysrc = Imgcodecs.imread(filepath);
             int y1 = 0;
             int y2 = 0;

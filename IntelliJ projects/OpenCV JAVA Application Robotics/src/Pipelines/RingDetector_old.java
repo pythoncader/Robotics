@@ -9,7 +9,7 @@ import org.opencv.highgui.HighGui;
 import static org.opencv.imgproc.Imgproc.COLOR_BGR2GRAY;
 import static org.opencv.imgproc.Imgproc.cvtColor;
 
-public class RingDetector {
+public class RingDetector_old {
     public static void main(String[] args) {
         int runtime = 0;
         String[] myfiles = {"Pipelines/files/skystonesmall.jpg", "Pipelines/files/skystonepic.jpg", "Pipelines/files/skystonestack.jpg", "Pipelines/files/skystonestack2.jpg", "Pipelines/files/skystonestack3.jpg"};
