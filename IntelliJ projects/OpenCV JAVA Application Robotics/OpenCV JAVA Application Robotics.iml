@@ -7,17 +7,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../OpenCV-Library-Java/opencv/build/java/opencv-450.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/OpenCV-Library-Java/opencv/build/java/opencv-450.jar!/" />
         </CLASSES>
         <JAVADOC />
         <NATIVE>
-          <root url="file://$MODULE_DIR$/../OpenCV-Library-Java/opencv/build/java/x64" />
+          <root url="file://$USER_HOME$/Downloads/OpenCV-Library-Java/opencv/build/java/x64" />
         </NATIVE>
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/../OpenCV-Library-Java/opencv/build/java/opencv-450.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/OpenCV-Library-Java/opencv/build/java/opencv-450.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
